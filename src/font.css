@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'PPPangramSansRounded';
+    src: local('PPPangramSansRounded-Medium'),
+         url('./fonts/PPPangramSansRounded-Medium.ttf') format('woff'),
+         url('./fonts/PPPangramSansRounded-Medium.woff') format('woff'),
+         url('./fonts/PPPangramSansRounded-Medium.woff2') format('woff'),
+}
