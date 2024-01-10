@@ -5,5 +5,5 @@ This repository contains the assignment given by SIMPLEPLAN MEDIA. The details a
 
 ## Assignment Details
 - Organization: SIMPLEPLAN MEDIA
-- Assignment Type : Figa to Code
+- Assignment Type : Figma to Code
 
